@@ -1,5 +1,5 @@
 +++
-title = "Workshops"
+title = "基調講演"
 date = 2019-11-18T08:29:21+11:00
 weight = 3
 chapter = false
