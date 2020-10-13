@@ -1,9 +1,9 @@
 # RelativeURLs=true
 # CanonifyURLs=true
-languageCode = "en-US"
+languageCode = "ja-JP"
 defaultContentLanguage = "en"
 
-title = "AWS Cloud Security Virtual Event"
+title = "AWS Security Roadshow Japan 2020"
 theme = "learn"
 metaDataFormat = "yaml"
 defaultContentLanguageInSubdir= true
@@ -18,8 +18,8 @@ defaultContentLanguageInSubdir= true
 [params]
   ordersectionsby = "weight"
   editURL = ""
-  description = "AWS Cloud Security Virtual Event"
-  author = "Sumit Patel"
+  description = "AWS Security Roadshow Japan 2020"
+  author = "Satoshi Takahashi"
   disableBreadcrumb = false
   disableNextPrev = false
   themeVariant = "workshops"
