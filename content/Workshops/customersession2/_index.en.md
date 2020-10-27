@@ -7,9 +7,15 @@ Sansan-CSIRT では、お客様からお預かりしている情報を守り、�
 
 {{< rawhtml >}}
 <video width="696" height="392" controls>
-  <source src="https://awssecurityroadshow2020.s3-ap-northeast-1.amazonaws.com/workshops/keynote1/091120+APAC+RoadShow+r1.mp4" type="video/mp4">
+  <source src="https://awssecurityroadshow2020.s3-ap-northeast-1.amazonaws.com/workshops/customersession2/customer_sansan_aes_siem.mp4" type="video/mp4">
   Your browser doesn't support video.
 </video>
 {{< /rawhtml >}}
 
->  **Speaker: 松田 健, Sansan株式会社** 
+配布資料
+
+{{< rawhtml >}}
+<iframe src="https://awssecurityroadshow2020.s3-ap-northeast-1.amazonaws.com/workshops/customersession2/Customer+session_sansan_TakeshiMatsuda.pdf" width="696" height="392"></iframe>
+{{< /rawhtml >}}
+
+>  **Speaker: 松田 健 氏, Sansan株式会社** 

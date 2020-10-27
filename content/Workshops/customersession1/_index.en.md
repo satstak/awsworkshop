@@ -18,4 +18,4 @@ chapter = false
 <iframe src="https://awssecurityroadshow2020.s3-ap-northeast-1.amazonaws.com/workshops/customersession1/Customer+session_SSNB_Hiroshi+Watanabe.pdf" width="696" height="392"></iframe>
 {{< /rawhtml >}}
 
->  **Speaker: 渡邊 弘, 住信SBIネット銀行株式会社** 
+>  **Speaker: 渡邊 弘 氏, 住信SBIネット銀行株式会社** 
