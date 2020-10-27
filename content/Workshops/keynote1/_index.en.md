@@ -12,8 +12,11 @@ COVID-19 の状況下において、今求められる職場環境とセキュ�
   <source src="https://awssecurityroadshow2020.s3-ap-northeast-1.amazonaws.com/workshops/keynote1/091120+APAC+RoadShow+r1.mp4" type="video/mp4">
   Your browser doesn't support video.
 </video>
-<br>
+{{< /rawhtml >}}
+
 配布資料
+
+{{< rawhtml >}}
 <iframe src="https://awssecurityroadshow2020.s3-ap-northeast-1.amazonaws.com/workshops/keynote1/Schmidt_APAC_Keynote.pdf" width="696" height="392"></iframe>
 {{< /rawhtml >}}
 
