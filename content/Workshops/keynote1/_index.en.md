@@ -9,7 +9,7 @@ COVID-19 の状況下において、今求められる職場環境とセキュ�
 
 {{< rawhtml >}}
 <video width="696" height="392" controls>
-  <source src="https://awssecurityroadshow2020.s3-ap-northeast-1.amazonaws.com/workshops/keynote1/091120+APAC+RoadShow+r1.mp4" type="video/mp4">
+  <source src="https://awssecurityroadshow2020.s3-ap-northeast-1.amazonaws.com/workshops/keynote1/APAC Security Roadshow Steve Keynote1_JPN_vo.mp4" type="video/mp4">
   Your browser doesn't support video.
 </video>
 {{< /rawhtml >}}
