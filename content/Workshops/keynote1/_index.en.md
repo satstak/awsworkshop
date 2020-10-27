@@ -17,7 +17,7 @@ COVID-19 の状況下において、今求められる職場環境とセキュ�
 配布資料
 
 {{< rawhtml >}}
-<iframe src="https://awssecurityroadshow2020.s3-ap-northeast-1.amazonaws.com/workshops/keynote1/Schmidt_APAC_Keynote.pdf" width="696" height="392"></iframe>
+<iframe src="https://awssecurityroadshow2020.s3-ap-northeast-1.amazonaws.com/workshops/keynote1/Schmidt_APAC_Keynote.pdf" width="696" height="392"><p><b>Your browser doesn't support video.</b>: <a href="https://awssecurityroadshow2020.s3-ap-northeast-1.amazonaws.com/workshops/keynote1/Schmidt_APAC_Keynote.pdf">PDF をダウンロード</a>.</p></iframe>
 {{< /rawhtml >}}
 
 >  **Speaker: Steve Schmidt , AWS CISO, Vice President** 
