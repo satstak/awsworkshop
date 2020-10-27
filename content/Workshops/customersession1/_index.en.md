@@ -7,9 +7,15 @@ chapter = false
 
 {{< rawhtml >}}
 <video width="696" height="392" controls>
-  <source src="https://awssecurityroadshow2020.s3-ap-northeast-1.amazonaws.com/workshops/keynote1/091120+APAC+RoadShow+r1.mp4" type="video/mp4">
+  <source src="https://awssecurityroadshow2020.s3-ap-northeast-1.amazonaws.com/workshops/customersession1/customer_sbi_privatelink.mp4" type="video/mp4">
   Your browser doesn't support video.
 </video>
+{{< /rawhtml >}}
+
+配布資料
+
+{{< rawhtml >}}
+<iframe src="hhttps://awssecurityroadshow2020.s3-ap-northeast-1.amazonaws.com/workshops/customersession1/Customer+session_SSNB_Hiroshi+Watanabe.pdf" width="696" height="392"></iframe>
 {{< /rawhtml >}}
 
 >  **Speaker: 渡邊 弘, 住信SBIネット銀行株式会社** 
