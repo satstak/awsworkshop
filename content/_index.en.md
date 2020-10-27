@@ -5,7 +5,7 @@ chapter = false
 author = "Satoshi Takahashi"
 +++
 
-## AWS Security Roadshow Japan 2020 視聴サイト
+## AWS Security Roadshow Japan 2020 視聴,資料ダウンロードサイト
 
 AWS Security Roadshow Japan 2020 にご参加頂きありがとうございました。  
 こちらのサイトより、各セッションの視聴と、資料のダウンロードが出来ます。
