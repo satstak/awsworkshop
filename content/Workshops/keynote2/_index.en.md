@@ -6,6 +6,7 @@ chapter = false
 当パネルディスカッションでは、「ゼロトラストとセキュリティアーキテクチャの将来像」と題しまして、セキュリティ・コンプライアンスの現状を認識し、利用者がどのような取り組みを行っていくべきなのか、日本のコンテクストを踏まえてその課題を洗い出していきます。
 
 現在同時通訳版を公開しています。字幕入り版を今後公開予定です。
+
 {{< rawhtml >}}
 <video width="696" height="392" controls>
   <source src="https://awssecurityroadshow2020.s3-ap-northeast-1.amazonaws.com/workshops/keynote2/paneldiscussion_vo.mp4" type="video/mp4">
