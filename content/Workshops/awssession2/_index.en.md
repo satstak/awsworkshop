@@ -7,9 +7,15 @@ chapter = false
 
 {{< rawhtml >}}
 <video width="696" height="392" controls>
-  <source src="https://awssecurityroadshow2020.s3-ap-northeast-1.amazonaws.com/workshops/keynote1/091120+APAC+RoadShow+r1.mp4" type="video/mp4">
+  <source src="https://awssecurityroadshow2020.s3-ap-northeast-1.amazonaws.com/workshops/awssession2/aws_compliance_program.mp4" type="video/mp4">
   Your browser doesn't support video.
 </video>
+{{< /rawhtml >}}
+
+配布資料
+
+{{< rawhtml >}}
+<iframe src="https://awssecurityroadshow2020.s3-ap-northeast-1.amazonaws.com/workshops/awssession2/Finaicial+Services_Compliance_AWSJ_AtsushiTakano.pdf" width="696" height="392"></iframe>
 {{< /rawhtml >}}
 
 >  **Speaker: 高野 敦史, AWS Japan** 
