@@ -15,7 +15,7 @@ chapter = false
 配布資料
 
 {{< rawhtml >}}
-<iframe src="https://awssecurityroadshow2020.s3-ap-northeast-1.amazonaws.com/workshops/awssession3/Closing_AWSJ_SatoshiTakahashi.pdf"
+<iframe src="https://awssecurityroadshow2020.s3-ap-northeast-1.amazonaws.com/workshops/awssession3/Closing_AWSJ_SatoshiTakahashi.pdf" width="696" height="392"></iframe>
 {{< /rawhtml >}}
 
 > **Speaker: 高橋 悟史, AWS Japan** 
